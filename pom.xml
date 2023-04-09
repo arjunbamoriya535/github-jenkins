@@ -72,9 +72,7 @@
 			<releases>
 				<enabled>false</enabled>
 			</releases>
-
 		</pluginRepository>
-
 	</pluginRepositories>
 
 </project>
